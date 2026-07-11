@@ -3,13 +3,20 @@
 <img width="200" height="200" alt="octocat-1757949811403" src="https://github.com/user-attachments/assets/32b39ec7-676b-4021-b138-9ff4e3a1ad8e" />
 
 
-✨ Bem-vindo ao meu espaço de aprendizado e criação! ✨
+✨ Olá! Sou Natalia Silva, Trainee de Desenvolvimento e estudante de Ciência da Computação.
 
-Eu sou a Natalia, apaixonada por tecnologia, minimalismo e novas ideias.
+Gosto de transformar ideias em projetos e estou sempre aprendendo algo novo. Atualmente estudo e trabalho principalmente com C#, SQL Server, React e desenvolvimento de aplicações, além de explorar tecnologias que ampliem meu conhecimento.
 
-No meu GitHub você vai encontrar projetos de estudo (HTML, CSS, Javascript, C#, React, Angular, SQL) e pequenos experimentos que refletem minha jornada na área de TI, como estudante de Ciência da Computação.
+Aqui você encontrará:
 
-Acredito que colaborar é melhor do que competir — e que conhecimento só faz sentido quando compartilhado. 💡
+💻 Projetos de estudo e prática
+🚀 Projetos pessoais em desenvolvimento
+📚 Experimentos com novas tecnologias
+🛠️ Soluções que refletem minha evolução como desenvolvedora
+
+Acredito que aprender é um processo contínuo e que compartilhar conhecimento torna esse caminho ainda mais interessante.
+
+Seja bem-vindo(a)! 😊
 
 
 ## Estou aprendendo
